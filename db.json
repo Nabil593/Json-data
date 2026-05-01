@@ -1,0 +1,112 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Silent Echo",
+            "author": "Elena Vance",
+            "description": "A haunting tale of a small town harboring a secret that spans generations.",
+            "category": "Story",
+            "available_quantity": 8,
+            "image_url": "https://i.ibb.co.com/WvyMcyJD/book-01.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Quantum Computing Fundamentals",
+            "author": "Dr. Aris Thorne",
+            "description": "An accessible guide to the principles of qubits, entanglement, and the future of processing.",
+            "category": "Tech",
+            "available_quantity": 15,
+            "image_url": "https://i.ibb.co.com/zHTrL7N0/Quantum.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Astrophysics for Seekers",
+            "author": "Marcus Sol",
+            "description": "Exploring the birth of stars and the inevitable expansion of the universe.",
+            "category": "Science",
+            "available_quantity": 5,
+            "image_url": "https://i.ibb.co.com/0pj3LC38/Astronomy.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Midnight in Kyoto",
+            "author": "Hana Sato",
+            "description": "A lyrical journey through the neon-lit streets and hidden shrines of Japan.",
+            "category": "Story",
+            "available_quantity": 12,
+            "image_url": "https://i.ibb.co.com/V5V6Jrs/midnight.webp"
+        },
+        {
+            "id": 5,
+            "title": "The AI Revolution",
+            "author": "Sarah Jenkins",
+            "description": "How machine learning and neural networks are reshaping modern industry.",
+            "category": "Tech",
+            "available_quantity": 20,
+            "image_url": "https://i.ibb.co.com/zWPqdmdz/Revulation.webp"
+        },
+        {
+            "id": 6,
+            "title": "Microbiology: The Unseen World",
+            "author": "Dr. Leo Grant",
+            "description": "A deep dive into the microscopic organisms that sustain life on Earth.",
+            "category": "Science",
+            "available_quantity": 7,
+            "image_url": "https://i.ibb.co.com/xKLZtBph/Microbiology.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Beyond the Horizon",
+            "author": "Clara Oswald",
+            "description": "A gripping adventure of a lone sailor crossing the Atlantic in a wooden sloop.",
+            "category": "Story",
+            "available_quantity": 3,
+            "image_url": "https://i.ibb.co.com/3y8B2PYB/Beyond-the-Horizon.webp"
+        },
+        {
+            "id": 8,
+            "title": "Full Stack Mastery",
+            "author": "Kevin Lee",
+            "description": "The ultimate roadmap for mastering both frontend and backend development.",
+            "category": "Tech",
+            "available_quantity": 25,
+            "image_url": "https://i.ibb.co.com/nst17g9g/Full-Stack-Mastery.webp"
+        },
+        {
+            "id": 9,
+            "title": "Genetics: Coding Life",
+            "author": "Dr. Maya Patil",
+            "description": "Understanding the human genome and the ethical implications of gene editing.",
+            "category": "Science",
+            "available_quantity": 10,
+            "image_url": "https://i.ibb.co.com/VcFyLXzJ/Genetics.webp"
+        },
+        {
+            "id": 10,
+            "title": "The Last Archivist",
+            "author": "Julian Reed",
+            "description": "In a world without paper, one man fights to preserve the last physical library.",
+            "category": "Story",
+            "available_quantity": 6,
+            "image_url": "https://i.ibb.co.com/4D73cPH/The-Last-Archivist.png"
+        },
+        {
+            "id": 11,
+            "title": "Cybersecurity Frontiers",
+            "author": "Alex Rivera",
+            "description": "Tactics and strategies for defending digital infrastructure against modern threats.",
+            "category": "Tech",
+            "available_quantity": 18,
+            "image_url": "https://i.ibb.co.com/d4STJd37/Cybersecurity-Frontiers.webp"
+        },
+        {
+            "id": 12,
+            "title": "Climate Dynamics",
+            "author": "Elena Rossi",
+            "description": "A scientific analysis of atmospheric changes and their global impact.",
+            "category": "Science",
+            "available_quantity": 9,
+            "image_url": "https://i.ibb.co.com/cKGdj3JL/Climate-Dynamics.avif"
+        }
+    ]
+}
