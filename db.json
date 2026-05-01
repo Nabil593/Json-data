@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "title": "Quantum Computing Fundamentals",
+            "title": "Quantum Computing",
             "author": "Dr. Aris Thorne",
             "description": "An accessible guide to the principles of qubits, entanglement, and the future of processing.",
             "category": "Tech",
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "title": "Astrophysics for Seekers",
+            "title": "Astrophysics",
             "author": "Marcus Sol",
             "description": "Exploring the birth of stars and the inevitable expansion of the universe.",
             "category": "Science",
@@ -29,7 +29,7 @@
         },
         {
             "id": 4,
-            "title": "Midnight in Kyoto",
+            "title": "Midnight",
             "author": "Hana Sato",
             "description": "A lyrical journey through the neon-lit streets and hidden shrines of Japan.",
             "category": "Story",
@@ -47,7 +47,7 @@
         },
         {
             "id": 6,
-            "title": "Microbiology: The Unseen World",
+            "title": "Microbiology",
             "author": "Dr. Leo Grant",
             "description": "A deep dive into the microscopic organisms that sustain life on Earth.",
             "category": "Science",
@@ -74,7 +74,7 @@
         },
         {
             "id": 9,
-            "title": "Genetics: Coding Life",
+            "title": "Genetics Coding",
             "author": "Dr. Maya Patil",
             "description": "Understanding the human genome and the ethical implications of gene editing.",
             "category": "Science",
